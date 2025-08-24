@@ -632,7 +632,7 @@ export default function Home() {
             <div className="grid lg:grid-cols-2 gap-8">
               {/* Send Escrow Form */}
               <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-6">
-                <h3 className="text-xl font-bold text-gray-900 mb-6">Send Escrow</h3>
+                <h3 className="text-xl font-bold text-gray-900 mb-6">Send</h3>
                 
                 <div className="space-y-4">
                   <div>
